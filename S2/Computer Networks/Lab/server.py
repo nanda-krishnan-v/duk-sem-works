@@ -16,7 +16,7 @@ print(f"Connected by {addr}")
 
 # Receive data from client
 data = conn.recv(1024).decode()
-print(f"Received from client: {data}")
+print(f"Received from the client: {data}")
 
 # Send acknowledgment
 ack_message = "Server received your message."
