@@ -4,7 +4,7 @@ Welcome! This repository serves as a comprehensive portfolio of my assignments, 
 
 ## About This Repository
 
-The primary goal of this repository is to document my academic journey and showcase my practical skills in various domains of cybersecurity. Each project folder contains the source code, relevant resources, and a dedicated `README.md` file explaining the problem statement, concepts applied, and my key learnings.
+The primary goal of this repository is to document my academic journey and showcase my practical skills in various domains of cybersecurity.
 
 ## About Me
 
